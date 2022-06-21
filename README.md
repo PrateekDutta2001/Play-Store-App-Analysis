@@ -8,4 +8,6 @@ Tools & Techniques:=
 
 Python[Language]
 
-Numpy, Pandas, Matplotlib, 
+Numpy, Pandas, Matplotlib, Seaborn, Ploty Express [Libraries]
+
+Data Cleaning

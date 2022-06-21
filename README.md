@@ -4,7 +4,7 @@ While many public datasets (on Kaggle and the like) provide Apple App Store data
 
 This information is scraped from the Google Play Store. This app information would not be available without it.
 
-Tools & Techniques:=
+Tools & Techniques:-
 
 Python[Language]
 
